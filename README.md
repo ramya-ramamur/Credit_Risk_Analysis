@@ -14,3 +14,7 @@ We will:
 # Resources
 * **Data Source:** [LoanStats_2019Q1.csv](https://github.com/ramya-ramamur/Credit_Risk_Analysis/tree/main/Resources)
 * **Software:** Python 3.8.8, Pandas Dataframe, Jupyter Notebook 6.4.6, Anaconda Navigator 2.1.1, imbalanced-learn, skikit-learn
+
+# Results
+
+**RandomOverSampler Model**
