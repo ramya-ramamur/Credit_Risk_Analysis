@@ -1,4 +1,4 @@
-Determine the best machine learning model to predict credit risk: NaiveRandomOverSampler, SMOTE, SMOTEENN, BalancedRandomForestClassifier and EasyEnsembleClassifier.
+Determine the best machine learning model to predict credit risk: **NaiveRandomOverSampler, SMOTE, SMOTEENN, BalancedRandomForestClassifier and EasyEnsembleClassifier.**
 
 # Credit_Risk_Analysis
 
